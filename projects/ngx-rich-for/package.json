@@ -1,0 +1,13 @@
+{
+  "name": "ngx-rich-for",
+  "version": "1.0.0",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/frabaddo/rich-for.git"
+  },
+  "peerDependencies": {
+    "@angular/common": "^9.0.7",
+    "@angular/core": "^9.0.7",
+    "tslib": "^1.10.0"
+  }
+}
