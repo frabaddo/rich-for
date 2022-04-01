@@ -1,7 +1,15 @@
 {
   "name": "ngx-rich-for",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "license": "MIT",
+  "keywords": [
+    "rich for",
+    "ngx",
+    "angular",
+    "ngFor",
+    "directive",
+    "ng"
+  ],
   "repository": {
     "type": "git",
     "url": "https://github.com/frabaddo/rich-for.git"
